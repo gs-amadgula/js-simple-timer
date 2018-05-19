@@ -30,7 +30,7 @@ export class Timer {
             this.isPaused = true;
             this.isStopped = false;
         } else {
-            console.log('timer is already paused');
+            console.log('timer has already been paused');
         }
     }
 
@@ -44,7 +44,7 @@ export class Timer {
             this.isPaused = false;
             this.isStopped = true;
         } else {
-            console.log('timer is already stopped');
+            console.log('timer has already been stopped');
         }
     }
 
