@@ -30,7 +30,7 @@ var Timer = /** @class */ (function () {
             this.isStopped = false;
         }
         else {
-            console.log('timer is  paused');
+            console.log('timer is already paused');
         }
     };
     Timer.prototype.stop = function () {

@@ -30,7 +30,7 @@ export class Timer {
             this.isPaused = true;
             this.isStopped = false;
         } else {
-            console.log('timer is  paused');
+            console.log('timer is already paused');
         }
     }
 
