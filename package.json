@@ -1,0 +1,19 @@
+{
+  "name": "simple-js-timer",
+  "version": "1.0.0",
+  "description": "a simple javascript timer",
+  "main": "simple-timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitSharmamad/js-simple-timer.git"
+  },
+  "author": "amit sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitSharmamad/js-simple-timer/issues"
+  },
+  "homepage": "https://github.com/AmitSharmamad/js-simple-timer#readme"
+}
